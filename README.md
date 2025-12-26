@@ -1,8 +1,6 @@
 # core-java-practice
 Core Java programs topic-wise
 
-# Core Java Practice
-
 This repository contains Core Java programs organized topic-wise for practice and revision.
 
 ## Purpose
