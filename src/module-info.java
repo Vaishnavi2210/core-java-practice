@@ -1,0 +1,2 @@
+module core.java.practice {
+}
